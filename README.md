@@ -19,3 +19,4 @@ and publishes them as a GitHub Release:
   installer is unsigned.
 - macOS first launch after a browser download:
   `xattr -dr com.apple.quarantine "/Applications/DeepSeek Harness.app"`
+
